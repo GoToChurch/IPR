@@ -1,0 +1,5 @@
+{
+  "username": "postgres",
+  "password": "postgres",
+  "url": "localhost:8080/postgres"
+}
